@@ -15,12 +15,11 @@
 # Best anti-cheat plugins
 * [Polar Anti Cheat](https://polar.top/)
 * [NoCheatPlus](https://www.spigotmc.org/resources/nocheatplus.26/)
-* [Advanced Anti Cheat](https://www.spigotmc.org/resources/aac-advanced-anti-cheat-hack-kill-aura-blocker.6442/)
+* [Spartan Anti Cheat](https://builtbybit.com/resources/bundle/spartan-java-bedrock-30-off.730/)
 * [Vulcan Anti Cheat](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-19-3.83626/)
 * [Matrix Anti Cheat](https://matrix.rip/)
 * [Grim Anti Cheat](https://www.spigotmc.org/resources/grim-anticheat.99923/)
 * [Hawk Anti Cheat](https://www.spigotmc.org/resources/hawk-anticheat-mc-1-7-10-1-8-8.40343/)
-* [Spartan Anti Cheat](https://www.spigotmc.org/resources/spartan-advanced-anti-cheat-cheat-detection-hack-blocker-1-7-1-19-3.25638/)
 # Best Minecraft hacked clients
 * [SmartClient](https://github.com/sssssssthedev/SmartClient)
 * [Rise Client](https://riseclient.com/)
